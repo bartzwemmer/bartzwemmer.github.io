@@ -8,7 +8,7 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+For now, you can have a look on [LinkedIn](https://www.linkedin.com/in/bzwemmer/).
 
 ### Contact me
 
